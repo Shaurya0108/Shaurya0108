@@ -15,7 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shaurya0108&theme=radical)
-
-
-![Shaurya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shaurya0108&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Shaurya's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaurya0108&show_icons=true&theme=transparent)
