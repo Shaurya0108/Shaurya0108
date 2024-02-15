@@ -1,4 +1,7 @@
-### [Hi there](https://preview.redd.it/how-popular-was-obi-wans-hello-there-in-anh-until-rots-came-v0-a2t3qburcrka1.jpg?width=453&format=pjpg&auto=webp&s=524513517a3e0ca20e8bccc2993a149ce3258990) 👋
+### HI 👋
+
+![image](https://github.com/Shaurya0108/Shaurya0108/assets/67282772/f1b851cb-01af-4683-973c-d4e319946da3)
+
 
 <!--
 **Shaurya0108/Shaurya0108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
