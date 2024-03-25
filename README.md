@@ -1,8 +1,5 @@
 ### HI 👋
 
-![image](https://github.com/Shaurya0108/Shaurya0108/assets/67282772/f1b851cb-01af-4683-973c-d4e319946da3)
-
-
 <!--
 **Shaurya0108/Shaurya0108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
