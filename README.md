@@ -1,5 +1,8 @@
 ### HI 👋
 
+Building physics and game engines with C++, C, and Rust. 
+
+Dev tools with Python and TS.
 <!--
 **Shaurya0108/Shaurya0108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
